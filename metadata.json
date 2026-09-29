@@ -1,0 +1,6 @@
+{
+  "name": "VORTEX Football Store",
+  "description": "Premium football jerseys and technical training pants built for players and fans who live for the game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
